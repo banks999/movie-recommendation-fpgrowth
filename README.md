@@ -9,7 +9,10 @@ This project implements a movie recommendation engine on the **MovieLens dataset
 - Clean, tabulated outputs using `tabulate`.  
 
 ## Tech Stack
-- Python, Pandas, mlxtend, Tabulate  
+- Python, Pandas, mlxtend, Tabulate
+
+## Dataset Link
+- https://grouplens.org/datasets/movielens/32m/
 
 ## How to Run
 ```bash
